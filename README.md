@@ -10,6 +10,8 @@
 - **Programação Reativa**: Processamento de dados em tempo real e manipulação de eventos usando Reactive Extensions (Rx.NET) e SignalR para atualizações ao vivo.
 - **Banco de Dados InMemory**: Configuração simplificada usando o provedor InMemory do Entity Framework Core para desenvolvimento e testes.
 - **Integração com Swagger**: Documentação interativa da API e testes através do Swagger UI.
+
+## 🛠 TODO
 - **Telemetria em Tempo Real**: Atualizações ao vivo dos dados de telemetria dos carros utilizando hubs do SignalR.
 
 ## 🏗 Arquitetura
